@@ -1,0 +1,16 @@
+.banner {
+  height: 500px;
+  display: flex;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.banner p {
+  color: white;
+  text-shadow: 0 0 15px rgba(101, 24, 255, 0.2);
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
